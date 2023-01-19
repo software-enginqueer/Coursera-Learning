@@ -1,4 +1,4 @@
-# Coursera-Learning
+# coursera-learning
 
 Coursera:
 HTML, CSS, and Javascript for Web Developers
